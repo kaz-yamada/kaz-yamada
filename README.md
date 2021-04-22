@@ -1,8 +1,9 @@
 ## <div align="center">Hi, I'm Kazuki 👋</div>
+
 <div align="center">
-    <a href="https://kazyamada.com">Website</a>
-    <a href="https://www.linkedin.com/in/kaz-yamada">LinkedIn</a>
-    <a href="https://www.hackerrank.com/kaz_yamada">Hackerrank</a>
+    <a href="https://kazyamada.com">Website</a> | 
+    <a href="https://www.linkedin.com/in/kaz-yamada">LinkedIn</a> | 
+    <a href="https://www.hackerrank.com/kaz_yamada">Hackerrank</a> | 
     <a href="https://www.codewars.com/users/kazyamada">Codewars</a>
 </div>
 
