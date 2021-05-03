@@ -10,3 +10,8 @@
 ---
 
 I graudated from UTS with a bachelor of science in information of technology, and I mostly specialise in front end development with ReactJS, but I know a bit of PHP, C#, Python, and Java.
+
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaz-yamada&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Kaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaz-yamada&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
